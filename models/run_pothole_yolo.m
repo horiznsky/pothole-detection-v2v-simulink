@@ -22,7 +22,6 @@ else
     lastProb = double(max(out(:, 7)));
 end
 prob = lastProb;
-% Add this right before 'end' in run_pothole_yolo.m to see live YOLO scores
 if mod(frameCount, 30) == 1
     fprintf('Frame %d | Max Pixel: %.1f | YOLO Pothole Prob: %.4f\n', ...
         frameCount, max(single(img(:))), lastProb);
