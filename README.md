@@ -17,10 +17,7 @@ braking warning as it approaches a pothole.
 
 ## Demo
 
-[Watch the simulation demo](YOUR_DEMO_VIDEO_LINK_HERE)
-
-Replace `YOUR_DEMO_VIDEO_LINK_HERE` with the URL of your YouTube, Google
-Drive, or Loom demo.
+[Watch the simulation demo]([Presentation](https://docs.google.com/videos/d/1sv2MuD71VgZPa28rcBwbzS_lrQjvU-SFO_gzQ7201JM/play?usp=sharing))
 
 ------------------------------------------------------------------------
 
