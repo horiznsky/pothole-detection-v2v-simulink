@@ -179,3 +179,16 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# MATLAB / Simulink build & cache files
+slprj/
+*.slxc
+*.autosave
+*.mex*
+*.asv
+*.m~
+
+# Large raw video or dataset archives (uncomment if >100 MB)
+# *.mp4
+# *.avi
+# *.zip
