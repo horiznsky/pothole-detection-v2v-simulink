@@ -132,7 +132,7 @@ model files and ONNX import workflow used in this repository.
 1.  Clone the repository:
 
     ``` bash
-    git clone https://github.com/<your-username>/<your-repo-name>.git
+    git clone https://github.com/horiznsky/pothole-detection-v2v-simulink.git
     ```
 
 2.  Open MATLAB and set the current folder to the cloned repository
