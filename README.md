@@ -17,8 +17,8 @@ braking warning as it approaches a pothole.
 
 ## Demo
 
-* 🎥 **[Watch the Simulation & Presentation Demo](https://docs.google.com/videos/d/1sv2MuD71VgZPa28rcBwbzS_lrQjvU-SFO_gzQ7201JM/play?usp=sharing)** — *Pothole Detection V2V Presentation*
-* 🎬 **[Watch the Additional Recording](https://docs.google.com/videos/d/1sJYVIrc5QXkzek_H5uXw9ByvOElGyztRb0MTXm-hGQU/play?usp=sharing)** — *Demo Recording*
+* 🎥 **[Watch the Simulation & Presentation Demo](https://drive.google.com/file/d/1XUMIouWWXaaOwcsFr_yQ_at2gbK-kQqg/view?usp=sharing)** — *Pothole Detection V2V Presentation + Demo*
+* 🎬 **[Watch the Demo Recording](https://docs.google.com/videos/d/1sJYVIrc5QXkzek_H5uXw9ByvOElGyztRb0MTXm-hGQU/play?usp=sharing)** — *Demo Recording*
 
 
 ------------------------------------------------------------------------
